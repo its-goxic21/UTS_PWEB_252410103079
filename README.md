@@ -12,7 +12,7 @@ Halaman Login merupakan halaman awal untuk masuk ke GameVault menggunakan userna
 <img width="1365" height="991" alt="127 0 0 1_8000_" src="https://github.com/user-attachments/assets/e2c91620-d649-40a8-9c54-fd1d48a340d4" />
 
 ### 2. Dashboard
-Dashboard menampilkan informasi koleksi game, game yang terakhir dimainkan, serta bagian rekomendasi dan pilihan game.
+Dashboard menampilkan informasi koleksi game dan game yang terakhir kali dimainkan.
 
 <img width="1350" height="1742" alt="127 0 0 1_8000_dashboard_username=GOXIC" src="https://github.com/user-attachments/assets/4c7d587d-4901-4116-857d-cba102b3650d" />
 
