@@ -1,6 +1,6 @@
 # GameVault 🎮
 
-GameVault adalah website katalog dan koleksi game pribadi yang dikembangkan untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Web.
+GameVault adalah website katalog dan koleksi game pribadi.
 
 Website ini memungkinkan pengguna untuk melihat koleksi game, mengetahui informasi permainan, memantau aktivitas bermain, serta menampilkan game favorit dalam satu platform. GameVault mengusung desain **dark modern dengan sentuhan pixel art**, dengan inspirasi tampilan dari platform Steam dan Epic Games Store.
 
