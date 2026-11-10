@@ -6,7 +6,7 @@
 
     <title>@yield('title', 'GameVault')</title>
 
-    @vite(['resources/css/style.css', 'resources/js/style.js'])
+    @vite(['resources/css/style.css', 'resources/js/app.js'])
 </head>
 
 <body class="{{ request()->is('/') || request()->is('login') ? 'login-page' : 'app-page' }}">
